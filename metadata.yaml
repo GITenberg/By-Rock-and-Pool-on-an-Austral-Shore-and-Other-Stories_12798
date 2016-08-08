@@ -1,0 +1,36 @@
+_repo: By-Rock-and-Pool-on-an-Austral-Shore-and-Other-Stories_12798
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: By rock and pool.- Solepa.- The fisher folk of Nukufetau.- Mrs. MacLaggan's
+  Billy.- An island memory.- A hundred fathoms deep.- On a tidal river.- Denison gets
+  another ship.- Jack Shark' s pilot.- The "palu" of the equatorial Pacific.- The
+  wily " goanner".- The tanifa of Samoa.- On board The Tucopia.- The man in the buffalo
+  hide.- A cruise in the South Seas -- hints to intending travellers.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'By rock and pool -- Solepa -- The fisher folk of Nukufetau -- Mrs.
+  MacLaggan''s Billy -- An island memory -- A hundred fathoms deep -- On a tidal river
+  -- Denison gets another ship -- Jack Shark''s pilot -- The "palu" of the equatorial
+  Pacific -- The wily " goanner" -- The tanifa of Samoa -- On board The Tucopia --
+  The man in the buffalo hide -- A cruise in the South Seas: hints to intending travellers.'
+title: By Rock and Pool on an Austral Shore, and Other Stories
+url: http://www.gutenberg.org/ebooks/12798
