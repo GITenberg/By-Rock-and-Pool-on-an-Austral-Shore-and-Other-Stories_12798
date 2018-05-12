@@ -1,5 +1,8 @@
 _repo: By-Rock-and-Pool-on-an-Austral-Shore-and-Other-Stories_12798
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Becke, Louis
@@ -14,6 +17,8 @@ description: By rock and pool.- Solepa.- The fisher folk of Nukufetau.- Mrs. Mac
   another ship.- Jack Shark' s pilot.- The "palu" of the equatorial Pacific.- The
   wily " goanner".- The tanifa of Samoa.- On board The Tucopia.- The man in the buffalo
   hide.- A cruise in the South Seas -- hints to intending travellers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12798#By-Rock-and-Pool-on-an-Austral-Shore-and-Other-Stories
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
